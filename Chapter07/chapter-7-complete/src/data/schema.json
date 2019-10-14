@@ -1,0 +1,23 @@
+{
+    "firstName": {
+        "component": "BaseInput",
+        "label": "First name"
+    },
+    "lastName": {
+        "component": "BaseInput",
+        "label": "Last name"
+    },
+    "email": {
+        "component": "BaseInput",
+        "label": "Email"
+    },
+    "favoriteAnimal": {
+        "component": "BaseSelect",
+        "label": "What's your favorite animal?",
+        "options": [
+            { "label": "Cat", "value": "cat" },
+            { "label": "Dog", "value": "dog" },
+            { "label": "Sea Otter", "value": "onlyvalidanswer" }
+        ]
+    }
+}
