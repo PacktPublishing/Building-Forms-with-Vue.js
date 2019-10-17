@@ -56,18 +56,14 @@ Click on the following link to see the Code in Action:
 [http://bit.ly/2puBGN1](www.youtube.com/URL)
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Modern JavaScript Web Development Cookbook [[Packt]](https://www.packtpub.com/web-development/modern-javascript-web-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788992749) [[Amazon]](https://www.amazon.com/dp/1788992741)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Vue.js 2 Design Patterns and Best Practices [[Packt]](https://www.packtpub.com/web-development/vuejs-design-patterns-and-best-practices?utm_source=github&utm_medium=repository&utm_campaign=9781788839792) [[Amazon]](https://www.amazon.com/dp/178883979X)
 
 ## Get to Know the Author
-**Author Name**
-Bio
+**Marina Mosti**
+is a full-stack web developer with over 13 years of experience in the field. She currently is part of the Vue Vixens community, where she enjoys mentoring other women on JavaScript and her favorite framework, Vue. She currently holds a position as Lead FE Developer at VoiceThread, and is the author of the FormVueLatte library as well as a member of the Vuelidate team. In her spare time, she enjoys playing bass, drums, and video games.
 
-
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
