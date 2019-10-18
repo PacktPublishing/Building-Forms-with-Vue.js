@@ -62,7 +62,8 @@ Click on the following link to see the Code in Action:
 
 ## Get to Know the Author
 **Marina Mosti**
-is a full-stack web developer with over 13 years of experience in the field. She currently is part of the Vue Vixens community, where she enjoys mentoring other women on JavaScript and her favorite framework, Vue. She currently holds a position as Lead FE Developer at VoiceThread, and is the author of the FormVueLatte library as well as a member of the Vuelidate team. In her spare time, she enjoys playing bass, drums, and video games.
+is a full-stack web developer with over 13 years of experience in the field. She enjoys mentoring other women on JavaScript and her favorite framework, Vue, as well as writing articles and tutorials for the community.
+She currently holds a position as Lead FE Developer at VoiceThread, and is the author of the FormVueLatte library as well as a member of the Vuelidate team. In her spare time, she enjoys playing bass, drums, and videogames.
 
 
 ### Suggestions and Feedback
