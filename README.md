@@ -1,6 +1,6 @@
 # Building Forms with Vue.js
 
-<a href="Packt UTM URL of the Book"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839213335-original.jpeg" alt="Building Forms with Vue.js" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/business-other/building-forms-with-vue-js?utm_source=github&utm_medium=repository&utm_campaign=978-1-83921-333-5"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839213335-original.jpeg" alt="Building Forms with Vue.js" height="256px" align="right"></a>
 
 This is the code repository for [Building Forms with Vue.js](https://www.packtpub.com/business-other/building-forms-with-vue-js?utm_source=github&utm_medium=repository&utm_campaign=978-1-83921-333-5), published by Packt.
 
