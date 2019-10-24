@@ -53,7 +53,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 Click on the following link to see the Code in Action:
 
-[http://bit.ly/2puBGN1](www.youtube.com/URL)
+[http://bit.ly/2puBGN1](http://bit.ly/2puBGN1)
 
 ### Related products <Other books you may enjoy>
 * Modern JavaScript Web Development Cookbook [[Packt]](https://www.packtpub.com/web-development/modern-javascript-web-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788992749) [[Amazon]](https://www.amazon.com/dp/1788992741)
