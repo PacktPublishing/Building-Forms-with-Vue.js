@@ -27,7 +27,7 @@ function componentForField(field) {
 {
     "fieldCount": 4,
     "fields": [
-        { s
+        {
             "type": "input",
             "id": "firstName",
             "label": "First Name"
